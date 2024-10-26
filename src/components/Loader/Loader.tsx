@@ -1,4 +1,3 @@
-import css from "./Loader.module.css";
 import { MagnifyingGlass } from "react-loader-spinner";
 
 const Loader: React.FC = () => {
